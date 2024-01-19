@@ -16,6 +16,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ArkarPhyo8](https://github.com/ArkarPhyo8)
 
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArkarPhyo8)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
